@@ -80,4 +80,3 @@ The repository is organized based on programming languages and further categoriz
 I will add one by one Contributor depending on weekly contris 
 
 
-Feel free to add your name to the list by making meaningful contributions to this repository!
